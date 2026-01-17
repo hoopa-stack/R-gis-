@@ -1,3 +1,4 @@
 # Display the output 
 
-print("New python file")
+# This is a combo from a video game.
+print("C, X, Z, Z, X")
